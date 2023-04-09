@@ -1,0 +1,42 @@
+Date : 2023-04-08 11:45:06
+Directory : c:\Users\Eswar\Desktop\Final\frontend\src
+Total : 11 files,  1193 codes, 10 comments, 104 blanks, all 1307 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JavaScript |          8 |      1,038 |         10 |         75 |      1,123 |
+| CSS        |          3 |        155 |          0 |         29 |        184 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                   | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                      |         11 |      1,193 |         10 |        104 |      1,307 |
+| . (Files)                                                              |          4 |        197 |          0 |         34 |        231 |
+| components                                                             |          1 |         68 |          0 |          2 |         70 |
+| pages                                                                  |          6 |        928 |         10 |         68 |      1,006 |
+| pages\Clients                                                          |          1 |         64 |          0 |          8 |         72 |
+| pages\History                                                          |          1 |         65 |          1 |          9 |         75 |
+| pages\Progress                                                         |          4 |        799 |          9 |         51 |        859 |
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                               | language   | code       | comment    | blank      | total      |
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\Eswar\Desktop\Final\frontend\src\App.css                      | CSS        |          0 |          0 |          1 |          1 |
+| c:\Users\Eswar\Desktop\Final\frontend\src\App.js                       | JavaScript |         24 |          0 |          5 |         29 |
+| c:\Users\Eswar\Desktop\Final\frontend\src\components\Sidebar.js        | JavaScript |         68 |          0 |          2 |         70 |
+| c:\Users\Eswar\Desktop\Final\frontend\src\index.css                    | CSS        |        150 |          0 |         27 |        177 |
+| c:\Users\Eswar\Desktop\Final\frontend\src\index.js                     | JavaScript |         23 |          0 |          1 |         24 |
+| c:\Users\Eswar\Desktop\Final\frontend\src\pages\Clients\Clients.js     | JavaScript |         64 |          0 |          8 |         72 |
+| c:\Users\Eswar\Desktop\Final\frontend\src\pages\History\History.js     | JavaScript |         65 |          1 |          9 |         75 |
+| c:\Users\Eswar\Desktop\Final\frontend\src\pages\Progress\Graph.js      | JavaScript |         51 |          0 |          6 |         57 |
+| c:\Users\Eswar\Desktop\Final\frontend\src\pages\Progress\InProgress.js | JavaScript |        396 |          3 |         26 |        425 |
+| c:\Users\Eswar\Desktop\Final\frontend\src\pages\Progress\Progress.css  | CSS        |          5 |          0 |          1 |          6 |
+| c:\Users\Eswar\Desktop\Final\frontend\src\pages\Progress\Progress.js   | JavaScript |        347 |          6 |         18 |        371 |
+| Total                                                                  |            |      1,193 |         10 |        104 |      1,307 |
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
